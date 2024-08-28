@@ -4,7 +4,7 @@ LDFLAGS =  main.cpp
 
 SRC = 
 OBJ = $(SRC:.cc=.o)
-EXEC = isviHulk
+EXEC = ledjijam5
 
 all: $(EXEC)
 
